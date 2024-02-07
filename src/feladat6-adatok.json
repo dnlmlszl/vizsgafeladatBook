@@ -1,0 +1,18 @@
+[
+    {
+        "cim": "Bevezetés a Számításelméletbe",
+        "polc": 1
+    },
+    {
+        "cim": "Mikro- és makroökonómia",
+        "polc": 2
+    },
+    {
+        "cim": "Algoritmuselmélet",
+        "polc": 3
+    },
+    {
+        "cim": "Függvényanalízis",
+        "polc": 4
+    }
+]
