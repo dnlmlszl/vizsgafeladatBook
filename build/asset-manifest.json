@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.890ab086.css",
+    "main.js": "/static/js/main.2fd2e3f9.js",
+    "static/js/592.28ad92a3.chunk.js": "/static/js/592.28ad92a3.chunk.js",
+    "static/media/feladat6-loading.gif": "/static/media/feladat6-loading.762125ffa91acb9ccd87.gif",
+    "index.html": "/index.html",
+    "main.890ab086.css.map": "/static/css/main.890ab086.css.map",
+    "main.2fd2e3f9.js.map": "/static/js/main.2fd2e3f9.js.map",
+    "592.28ad92a3.chunk.js.map": "/static/js/592.28ad92a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.890ab086.css",
+    "static/js/main.2fd2e3f9.js"
+  ]
+}

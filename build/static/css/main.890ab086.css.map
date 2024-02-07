@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.890ab086.css","mappings":"AAAA,UAEE,sBACA,cAGF,KAEE,iBADA,iBACA,CAEA,SACE","sources":["App.scss"],"sourcesContent":["html,\nbody {\n  background-color: black;\n  color: aliceblue;\n}\n\n.App {\n  text-align: center;\n  padding-top: 25px;\n\n  img {\n    max-width: 100px;\n  }\n}\n"],"names":[],"sourceRoot":""}
